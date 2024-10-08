@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\okul\vei yap. alg. bilal hoca\Veri alg. 1\Veri alg. 1\bin\Debug\Veri alg. 1.exe.config
+C:\Users\PC\Desktop\okul\vei yap. alg. bilal hoca\Veri alg. 1\Veri alg. 1\bin\Debug\Veri alg. 1.exe
+C:\Users\PC\Desktop\okul\vei yap. alg. bilal hoca\Veri alg. 1\Veri alg. 1\bin\Debug\Veri alg. 1.pdb
+C:\Users\PC\Desktop\okul\vei yap. alg. bilal hoca\Veri alg. 1\Veri alg. 1\obj\Debug\Veri alg. 1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\okul\vei yap. alg. bilal hoca\Veri alg. 1\Veri alg. 1\obj\Debug\Veri alg. 1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\okul\vei yap. alg. bilal hoca\Veri alg. 1\Veri alg. 1\obj\Debug\Veri alg. 1.exe
+C:\Users\PC\Desktop\okul\vei yap. alg. bilal hoca\Veri alg. 1\Veri alg. 1\obj\Debug\Veri alg. 1.pdb
